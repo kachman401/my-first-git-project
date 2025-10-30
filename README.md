@@ -3,5 +3,9 @@
 # This is my first Git project.  
 I created it to practice basic Git and GitHub commands. 
 
-# This update was made in the feature branch to demonstrate Git branching. 
+# This update was made in the feature branch to demonstrate Git branching.
+
+# Pull Request Practice
+
+This section was added to practice creating and merging pull requests in GitHub 
  
